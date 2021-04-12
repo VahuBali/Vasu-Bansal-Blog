@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is the official Vasu Bansal Blog where Vasu will teach his programming knowledge to the masses. This website is subject for a revamp but this is what I have right now!
